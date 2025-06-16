@@ -1,0 +1,27 @@
+The Meta AI App Lets You ‘Discover’ People’s Bizarrely Personal Chats
+
+Launched in April, the Meta AI platform offers a “discover” feed that includes user queries containing medical, legal, and other seemingly sensitive information. “What counties [sic] do younger women like older white men,” a public message from a user on Meta’s AI platform says. “I need details, I’m 66 and single. I’m from Iowa and open to moving to a new country if I can find a younger woman.” The chatbot responded enthusiastically: “You’re looking for a fresh start and love in a new place. That’s exciting!” before suggesting “Mediterranean countries like Spain or Italy, or even countries in Eastern Europe.”
+
+This is just one of many seemingly personal conversations that can be publicly viewed on Meta AI, a chatbot platform that doubles as a social feed and launched in April. Within the Meta AI app, a “discover” tab shows a timeline of other people’s interactions with the chatbot; a short scroll down on the Meta AI website is an extensive collage. While some of the highlighted queries and answers are innocuous—trip itineraries, recipe advice—others reveal locations, telephone numbers, and other sensitive information, all tied to user names and profile photos.
+
+Calli Schroeder, senior counsel for the Electronic Privacy Information Center, said in an interview with WIRED that she has seen people “sharing medical information, mental health information, home addresses, even things directly related to pending court cases.”
+
+“All of that's incredibly concerning, both because I think it points to how people are misunderstanding what these chatbots do or what they're for and also misunderstanding how privacy works with these structures,” Schroeder says.
+
+It’s unclear whether the users of the app are aware that their conversations with Meta’s AI are public or which users are trolling the platform after news outlets began reporting on it. The conversations are not public by default; users have to choose to share them.
+
+There is no shortage of conversations between users and Meta’s AI chatbot that seem intended to be private. One user asked the AI chatbot to provide a format for terminating a renter’s tenancy, while another asked it to provide an academic warning notice that provides personal details including the school’s name. Another person asked about their sister’s liability in potential corporate tax fraud in a specific city using an account that ties to an Instagram profile that displays a first and last name. Someone else asked it to develop a character statement to a court which also provides a myriad of personally identifiable information both about the alleged criminal and the user himself.
+
+There are also many instances of medical questions, including people divulging their struggles with bowel movements, asking for help with their hives, and inquiring about a rash on their inner thighs. One user told Meta AI about their neck surgery and included their age and occupation in the prompt. Many, but not all, accounts appear to be tied to a public Instagram profile of the individual.
+
+Meta spokesperson Daniel Roberts wrote in an emailed statement to WIRED that users’ chats with Meta AI are private unless users go through a multistep process to share them on the Discover feed. The company did not respond to questions regarding what mitigations are in place for sharing personally identifiable information on the Meta AI platform.
+
+In a company blog post announcing the app, Meta said “nothing is shared to your feed unless you choose to post it.” It also mentions that users can tell its AI to “remember certain things about you” and “also delivers more relevant answers to your questions by drawing on information you’ve already chosen to share on Meta products, like your profile, and content you like or engage with.”
+
+“People really don't understand that nothing you put into an AI is confidential,” Schroeder says. “None of us really know how all of this information is being used. The only thing we know for sure is that it is not staying between you and the app. It is going to other people, at the very least to Meta.”
+
+After the initial launch of Meta’s AI app, critics were quick to point out potential privacy issues, with one headline calling it “a privacy disaster waiting to happen.” Despite those concerns, the pace of the development and deployment of such AI shows no signs of slowing, especially at Meta: CEO Mark Zuckerberg recently announced that Meta’s AI assistant has 1 billion users across the company’s platforms, and its been reported that Meta is creating a new AI lab led by Scale AI cofounder Alexandr Wang, dedicated to building superintelligence.
+
+"Is Meta aware of how much sensitive information its users are mistakenly making publicly available,” one user asked Meta AI on Thursday, in a query that showed up in the public feed.
+
+“Some users might unintentionally share sensitive info due to misunderstandings about platform defaults or changes in settings over time,” the chatbot responded. “Meta provides tools and resources to help users manage their privacy, but it’s an ongoing challenge.”

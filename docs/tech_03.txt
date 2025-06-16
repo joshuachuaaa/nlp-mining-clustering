@@ -1,0 +1,118 @@
+Nvidia unveils plan for 20 new AI factories across Europe
+
+Of the sites that Nvidia plans to build, five will be gigafactory-scale operations equipped with high-performance GPU clusters optimized for training and running large language models
+Nvidia CEO Jensen Huang has laid out plans to launch at least 20 artificial intelligence factories across Europe over the next few years, as the continent accelerates its push to build sovereign AI infrastructure and compete with the U.S. and China.
+
+Remarks by the boss of the world's most valuable chipmaker came as he kicked off the VivaTech, one of Europe's biggest technology industry fairs, in Paris. The event started on Wednesday and lasts through Saturday.
+
+Delivering the opening keynote, Huang said the company is committed to investing heavily in the region's AI capabilities and human resources, addressing what he called Europe's current computational power gap.
+
+The continent has ramped up efforts to compete with the United States and Chine to benefit from the rapidly advancing technology, according to Huang.
+
+Of the 20 sites that Nvidia plans to build, five will be gigafactory-scale operations equipped with high-performance GPU clusters optimized for training and running large language models (LLMs).
+
+Huang said the AI infrastructure built in Europe would grow exponentially in the coming years. He announced an ambitious plan to increase tenfold the AI computing capacity in Europe within two years.
+
+Tie-up with Mistral
+A portion of this expansion will stem from Nvidia's expanded partnership with French AI startup Mistral AI, a rising AI developer that is seen as Europe’s response to U.S.-based OpenAI and China's DeepSeek.
+
+Mistral, backed by Nvidia, will install 18,000 units of the U.S. chip giant's next-generation "Blackwell" GPUs at a new facility in the Essonne region just outside Paris.
+
+Describing the move as a "transformative step," Mistral CEO Arthur Mensch said the project would help "preserve Europe's technological sovereignty."
+
+The facility will mark Mistral's first large-scale data center, with plans for a broader rollout across the continent.
+
+Energy, capital
+Such agreements bolster Nvidia's global efforts to support "sovereign AI." They also play a major role in reducing the company's dependence on major American tech giants, which account for a large portion of its revenue.
+
+One of the biggest obstacles to expanding AI capacity in Europe is seen as a lack of local capital and limited access to reliable energy sources.
+
+Building large-scale AI facilities can cost tens of billions of dollars and require enormous energy consumption. The road map for AI data centers will also shape the future path of commerce.
+
+Türkiye could make its case as Europe scales AI infrastructure
+Europe is bracing for a tenfold expansion in artificial intelligence computing capacity between 2025 and 2026. For Türkiye, the moment has arrived to assert itself on this new frontier.
+
+With the right positioning around green energy, a young engineering workforce and its strategic geographic location, Türkiye could secure a spot on the emerging European AI map.
+
+In his keynote at the VivaTech tech conference in Paris, Nvidia CEO Jensen Huang signaled a wave of AI-focused data center investments across Europe.
+
+The announcement comes amid vision for "sovereign AI," a concept emphasizing data independence and localized infrastructure.
+
+As Europe accelerates efforts to build new AI infrastructure, Türkiye stands to benefit through its unique mix of location, energy potential, and technological readiness.
+
+What should Türkiye do to be included in this continental leap? The year 2025 will be critical, as licensing processes for fiber and 5G infrastructure are set to take place. AI data centers must be integrated into these infrastructure plans.
+
+Energy investments
+Europe is entering a critical phase of energy transformation, driven in part by the high consumption demands of AI data centers. With cooling systems and energy supply representing major operational challenges, renewable energy sources are now central to infrastructure planning.
+
+Türkiye's growing solar and wind capacities, as well as their integration with data center investments, could align well with Europe’s "green AI" agenda.
+
+Tailored electricity tariffs and infrastructure incentives with grid operator TEIAŞ could also make Türkiye more attractive to foreign investors.
+
+Attracting giants
+To entice global players such as Nvidia, Google Cloud, Microsoft, and Amazon, Türkiye must establish dedicated investment offices.
+
+Partnerships could also be explored with Europe's rising AI startups like Nscale, Mistral AI, and Nebius AI. Offering Istanbul or Ankara as regional hubs could turn Türkiye into a viable alternative for new data center locations.
+
+A cross-agency initiative, perhaps led by the Presidential Investment Office, the Information and Communication Technologies Authority (BTK), and the Ministry of Industry and Technology, could formally launch an "AI Data Center Türkiye Initiative."
+
+In doing so, Türkiye could position itself as a digital gateway between Europe, Asia and the Middle East. An optical fiber corridor could be established between data centers in Türkiye and Greece to facilitate intercontinental connectivity. Türkiye could be positioned as an AI hub serving Eastern Europe and Central Asia.
+
+Building domestic ecosystem
+Türkiye can also cultivate a domestic AI ecosystem. National players like Togg, Havelsan, BITES, Aselsan, Arvis AI and Mindsite can serve as anchors for GPU-intensive sector clusters.
+
+Licensing models, such as an "AI Factory" framework modeled for companies like Nvidia, could help establish GPU-centered data processing zones within Türkiye.
+
+Türkiye already has a foundational legal framework for data governance through its Personal Data Protection Law (KVKK), offering compatibility with European standards such as the General Data Protection Regulation (GDPR).
+
+Aligning national regulations with the EU's Digital Services Act (DSA) and the Digital Operational Resilience Act (DORA) would further strengthen Türkiye's case.
+
+Turkish startups use premier European fair to court investors, clients
+Turkish startups used Europe's premier innovation and technology conference in Paris to connect with international partners, clients and investors.
+
+Representing sectors from defense, mobility, cybersecurity, blockchain and healthtech to AI, the tech ventures showcased their innovation at the VivaTech trade fair under the "Invest Türkiye" initiative.
+
+For many, VivaTech offered a rare chance to meet European enterprise clients and explore collaboration opportunities with global tech giants.
+
+Among the participants was GoPrint, a developer of advanced 3D printing technologies; Viseur AI, an AI-based healthtech startup; Artiwise, focused on customer experience analytics; FreshData, providing satellite data services; and Myth AI, offering blockchain-based solutions.
+
+Also in the mix at the Invest Türkiye booth were BranDefense, specializing in cybersecurity; Buyutech, a company working on camera systems for Togg's smart vehicles; and adin.ai, which develops AI-based marketing and communications tools.
+
+Backed by TT Ventures
+Myth AI is part of the investment portfolio of TT Ventures, the corporate venture arm of Türk Telekom, one of Türkiye's leading telecoms and technology companies.
+
+Since TT Ventures' investment in 2023, Myth AI has made strides in AI-powered pattern design solutions for the fashion and textile industry. The startup is expanding globally and is portraying itself as a transformative player in digital textile design.
+
+Other TT Ventures portfolio companies that focus on AI and data-driven technologies include Syntonym, B2metric, Cameralyze, Earnado, Optiyol and Virasoft.
+
+Healthtech startups
+Startups supported by the PharmUp Entrepreneurship Program also had the opportunity to present at VivaTech following the completion of the Demo Day of the program's sixth term.
+
+The initiative, which offers mentorship, acceleration, and training, sends selected graduates to international events such as VivaTech each year.
+
+This year's participants included Hidoctor, a provider of comprehensive digital health services; Cubtale, an AI-powered parenting platform offering personalized guidance; Medibulut, which helps small health clinics manage patient acquisition and operations digitally; and Beynex, which focuses on early diagnosis and personalized brain health solutions for neurodegenerative and cognitive disorders.
+
+Kolaj Co sets sights on global expansion after $1M Bixcod backing
+Kolaj Co, a startup incubated at Istanbul Technical University (ITÜ) Çekirdek center, has raised $1 million in seed funding from Bixcod Technology to accelerate its mission of reshaping performance-based content production for e-commerce brands and creators.
+
+The AI-powered platform connects e-commerce businesses with user-generated content (UGC) creators, offering both parties a scalable and transparent solution.
+
+Touted as Türkiye's first dedicated UGC platform, Kolaj Co enables brands to rapidly generate high-quality, sales-driven UGC videos, while offering content creators a sustainable and profit-oriented ecosystem.
+
+With the latest investment, the company is now setting its sights on global expansion, with a goal to transform into a multilingual, cross-border content sales platform by 2026.
+
+Global ambitions
+Mert Ayhan, co-founder of Kolaj Co, described the investment as more than just a financial boost.
+
+"This seed round represents a strategic partnership, not just capital. With Bixcod Technology's support, we aim to achieve strong growth momentum not only in Türkiye but also internationally," Ayhan said.
+
+Ayhan emphasized that the funding would be used to strengthen Kolaj’s software infrastructure, accelerate product development and expand the team. "With Bixcod's global experience, we can now map out a far more ambitious strategy for international growth," he added.
+
+Redesigning processes
+Kolaj Co plans to kick off operations in Dubai, Riyadh and London within 2026, three markets chosen for their high density of both brands and creators, according to Ayhan.
+
+"Our goal is to establish a structure in each market that allows us to work with local content creators and activate the Kolaj system in those countries," he said.
+
+The company is also redesigning its onboarding processes for both brands and creators, incorporating English and Arabic language support, he added.
+
+"Our aim is to transform Kolaj into a multilingual, multinational content sales platform on the global stage."

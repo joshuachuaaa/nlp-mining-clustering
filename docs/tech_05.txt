@@ -1,0 +1,14 @@
+Google experiments with AI-generated podcast hosts in search results
+Google Search is starting to talk back. Literally.
+
+Google is rolling out a new experiment in its Labs testing space — this time, it’s all about AI-generated Audio Overviews for search queries.
+
+SEE ALSO:
+Google adds Gemini to Chrome
+Powered by the latest Gemini models, the feature activates when you search for more complex or nuanced topics. Think "what’s the usefulness of the element Argon" rather than something simple like "what’s the weather today."
+
+You’ll see a "Generate Audio Overview" button appear, and after a short wait, about 40 seconds according to Google, you’ll get a fully voiced summary. The audio pulls from top search results and delivers a conversational recap, featuring two voices that play off each other to make the experience more engaging.
+
+Users can tweak the playback speed, and the tool cites the webpages it pulls information from.
+
+While this is the first time Audio Overviews are showing up in Search, the feature has already existed in Google’s NotebookLM, where it’s more advanced, letting users ask follow-up questions and dive deeper in real-time. For now, Audio Overviews in Search are available only as an opt-in experiment through Google Labs.

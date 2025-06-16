@@ -1,0 +1,42 @@
+Quorum using AI to achieve “huge” cyber time savings for Australian businesses
+
+Cutting down number of alerts for overwhelmed businesses.
+Australian organisations previously overwhelmed by cybersecurity alerts are finding significant time savings thanks to Quorum’s AI-driven approach. By integrating Microsoft’s Security Copilot, Quorum is helping businesses reduce alert fatigue and focus on actionable threats.
+
+Quorum’s Principal Consultant for Cybersecurity, Daniel Tracey, explained at the recent CyberSecure Summit in Sydney – hosted by Microsoft and Australian technology distributor Dicker Data – how the Quorum team worked with Microsoft to use Security Copilot to automate responses to alerts.
+
+For one large organisation dealing with around 300 alerts a day, Security Copilot streamlined operations, reducing them to just 35 actionable alerts.
+
+“What we did is we designed some prompts to say ‘Security Copilot, go and retrieve this information for us,’ and then we attached that to Sentinel automation, enhancing the ability for an operator to create their own logic through natural language and build out their own automatic workflow,” Tracey said.
+
+“This saved a huge amount of time, reducing 300 alerts down to 35 that actually needed to be addressed.”
+
+Quorum’s solution has proven especially valuable for addressing "impossible travel" alerts, where an employee’s login from geographically distant locations triggers security concerns. With large teams travelling globally, manually checking each alert was a laborious process.
+
+“We used Security Copilot to retrieve that information on our behalf. We identified when these alerts came in, and then we asked Copilot for its recommendation based on the information that had been provided using natural language asking, ‘Is this a legitimate threat or not?’” Tracey told organisations at the Sydney event.
+
+“99.9% of the time, it was a false positive, so the only actionable alerts became when a legitimate threat had been detected and needed to be investigated. We essentially resolved the issue with the level one security operations function for those particular use cases using AI.”
+
+Acknowledging AI risks
+
+Although Generative AI can be used to strengthen cybersecurity when using tools like Security Copilot, the use of Generative AI tools could introduce risks to an organisation, particularly when day to day users can access tools like M365 Copilot and Chat GPT.
+
+Oscar Gonzalez, Microsoft’s SMB Cybersecurity Lead for Australia and New Zealand, highlighted concerns surrounding data exposure and leaks, particularly in an environment where data breaches are frequent and costly.
+
+Generative AI use can over-expose data, Gonzalez warned. “That is a very high risk and everyone is facing that unless you now have a data classification structure and you ensure that you're putting the right permissions in place,” he said.
+
+He also pointed to the risk of data leaks by disgruntled employees, though suggested that negligent use of data or accidental leaks is more likely. “The way to address this is having that structure in place by having governance on your data and having the right permission levels on your data,” he said.
+
+Gavin van Niekerk, Quorum’s Practice Manager for Cybersecurity, shared a case study about a Melbourne-based electrical wholesaler that turned to Quorum for AI-driven data security solutions. Initially, the wholesaler’s data security posture was underdeveloped, with no proactive monitoring in place.
+
+“The first thing is about bringing in experts who can listen to the company - how do we fit into the business requirements and not only affect change but also reduce the risk profile appropriately?” van Niekerk said.
+
+“Data security readiness and understanding your current maturity posture is another piece too - understanding where is your data, what's important, how are we going to protect it? We're able, through the assessments we carry out, to scoop all of that up, and bring some clarity.”
+
+“When we started, we had to acknowledge that the maturity [of the wholesaler] was probably quite low – they had no proactive monitoring previously – but now, they have something that they had to manage, and we’re able to work with them in terms of bringing that capability as an extension of their team, leveraging our modern SOC team (Cyber One).
+
+He said that the wholesaler was now more confident in using AI without overexposing itself to risks. “They felt empowered,” van Niekerk said. “They now have the confidence to consume AI with a reasonable level of data security in place.”
+
+“Were they done? No, it was the first step in their journey, but now they could go back to the business and say ‘we're in a ready state, we can move forward and consume the tooling effectively, without overexposing ourselves to risk.”
+
+Talk to Quorum about using AI to save time with cybersecurity and reduce your organisation’s risk profile. sales@quorumsystems.com.au

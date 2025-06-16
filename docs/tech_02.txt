@@ -1,0 +1,62 @@
+Meta offered one AI researcher at least $10,000,000 to join up
+
+Mark Zuckerberg reached out to our source directly
+
+Exclusive Meta has made lavish and lucrative offers to a select set of AI researchers in an effort to develop superintelligent AI.
+
+CEO Mark Zuckerberg himself has taken to emailing job offers to elite talent. One AI researcher told us Zuckerberg offered them an eight-figure compensation package – at least $10,000,000 a year.
+
+"I got an email from Mark personally," our source said. "And he said, 'I have an offer for you.' Wow, and the offer was crazy."
+
+The researcher, who may or may not accept the offer, asked not to be identified. The offer did not specify exactly what the job entailed.
+
+"I'm interested in how this will affect the job market," the person said. "I was really shocked to be honest."
+
+Citing discussions with others in the industry, the researcher said that it appears Meta simply made a list of around 50 to 100 people it really wants to hire and pursued them fiercely.
+
+The Register understands that the size of Meta's offers reflects recent difficulties recruiting top AI talent from among the small ranks of people who have successfully developed large foundation models at major companies.
+
+In a recent social media post, Deedy Das, a principal at venture capital firm Menlo Ventures, said, "Meta is currently offering $2M+/yr in offers for AI talent and still losing them to OpenAI and Anthropic. Heard ~3 such cases this week. The AI talent wars are absolutely ridiculous."
+
+Das pointed to a recent report from venture capital firm SignalFire that claims Meta lost 4.3 percent of its AI talent to other AI labs in 2024, the second highest attrition rate behind Google, at 5.4 percent.
+
+The report also includes data asserting Anthropic had the highest AI talent retention rate (80 percent) at a handful of AI companies for employees hired between 2021 and February 2023, followed by Google’s DeepMind (78 percent), OpenAI (67 percent), Meta (64 percent), Cohere (64 percent), and Mosaic (63 percent).
+
+Two years ago, Yudian Zheng, former AI lead at Twitter, turned down an offer from Meta worth $1 million annually to co-found his own company, Jobright.ai. He told The Register in an email that he did so because he wanted the opportunity to build something meaningful and to help underserved job seekers use AI to their advantage.
+
+"I’ve spent time at companies like Google, Microsoft, and Twitter, so I have a good sense of how big tech operates," he said. "What I really value about Silicon Valley is its startup ecosystem – it’s a place where ambitious people can build from scratch and create real impact."
+
+The role he turned down was with Meta's Generative AI ads team. "Meta has several GenAI efforts, both in foundational work like Llama and in applying AI to its core businesses like advertising," he said. "The team I was in discussions with was focused on applying GenAI to improve ad performance and automation."
+
+Asked whether Meta's eight-figure offers are unusual, Zheng said, "Not really – competition for top GenAI talent has become extremely intense. Training frontier models is a bit like alchemy: A small number of deeply experienced researchers can make a huge difference."
+
+He continued, "The market has recognized that, and compensation reflects it. Meta, OpenAI, Google DeepMind, Anthropic, and xAI are all aggressively hiring, but the actual talent pool with meaningful foundation model experience is still very small."
+
+AI everywhere at Meta
+Meta uses AI to support its social network and advertising business. It offers the Meta AI assistant, a LLaMA-based chatbot service on the web and in Android and iOS apps. It has deployed AI models to help with social media recommendations, content moderation, ad targeting and ad creation. Its AI research group tries to advance the state of the art and recently released a video-trained "world model" called Meta Video Joint Embedding Predictive Architecture 2 (V-JEPA 2) to help robots with real-world navigation.
+
+Word of Meta's ambition to form a new AI team staffed by top talent was first reported by Bloomberg, which also noted that Zuckerberg was personally involved in recruiting.
+
+Zuckerberg has tapped Alexandr Wang, CEO of Scale AI, to lead the group, as part of a deal that has Meta investing a reported $15 billion in data labeling business. Wang made the announcement in a social media post on Thursday, naming Chief Strategy Officer Jason Droege as interim CEO.
+
+Meta and Scale AI did not respond to requests for comment.
+
+Observers have speculated that the disappointing launch of Meta's Llama 4 model in April – its performance was underwhelming and faced allegations of benchmark cheating – as part of the company's rationale for forming the new group.
+
+But The Register understands discussions about the creation of the group date back at least to December 2024, before the release of Llama 4.
+
+We asked the researcher whom Meta approached about the plausibility of Meta's AI group pursuing superintelligence, or artificial general intelligence, the theorized point where AI models broadly outperform humans. They told us it is a reasonable issue to consider.
+
+"It's already the case that in so many dimensions, these models are superhuman, right?" the researcher said. "For example, they can defeat humans at math or Go or whatever. So it's not so crazy to me. There are always holes [in what they can do] but these holes keep disappearing as we scale and we improve the algorithms.
+
+"The more interesting thing to me is it feels like there's an inflection point where these models have become useful and have business value. And we've crossed that line and it's just going to flow from there. I think that's what's going on here."
+
+Zheng said he thinks Meta fears falling behind OpenAI, Anthropic, and Google, despite what the company has accomplished with Llama.
+
+"Their core strength has historically been in social platforms, but now they’re clearly investing heavily to catch up and compete in foundation models," he said. "The recent reports around possible investment or acquisition of Scale AI also suggest they’re doubling down on high-quality data, model training infrastructure, and elite AI talent."
+
+Meta is accustomed to spending large amounts of money on projects that don’t immediately produce much revenue. The company's Reality Labs VR group has lost money every year since its inception in Q4 2020, totaling more than $64 billion.
+
+But given Meta earned a profit of $62 billion last year, there's clearly enough in the till to poach 50 top AI researchers at $10 million a pop, particularly after the company axed 3,600 employees in January.
+
+And if Meta's expectations about the revenue potential from AI are borne out, $500 million in compensation – a fraction of the company's AI-focused $60-$65 billion 2025 capital expenditure plan – will be a drop in the bucket. A recent legal filing [PDF] in publisher AI lawsuit Kadrey v. Meta reveals that "Meta forecasts its GenAI products will generate between $460 billion and $1.4 trillion of total revenue by 2035." ®

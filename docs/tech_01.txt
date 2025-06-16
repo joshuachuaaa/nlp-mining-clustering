@@ -1,0 +1,60 @@
+Southern Highlands students develop technology to help detect PFAS in grocery items
+
+In short: 
+Students from Bowral High School have created an app prototype that scans product barcodes to detect PFAS.
+
+The development has garnered attention from local MPs and Apple, but a lack of data is stopping progress. 
+
+What's next?
+The group has created a parliamentary petition to mandate PFAS labelling on Australian products.
+
+When a group of high school students learnt that elevated levels of PFAS were detected in their local river, they became worried.
+
+The five senior students from Bowral High School in the NSW Southern Highlands decided to take matters into their own hands and develop an app to detect the so-called forever chemicals in everyday products.
+
+PFAS (per- and polyfluoroalkyl substances) are a group of more than 4,000 chemicals which have been used in a range of household products such as non-stick cookware and food packaging.
+
+In 2023, Australian researchers found 107 types of PFAS in 15 consumer product categories, with the highest levels found in textiles and cosmetics.
+
+Last month, the Australian Bureau of Statistics revealed 85 per cent of Australians have PFAS in their blood.
+
+"The scariest part is not just that it's in everyone, but no-one knows about it," group participant and Year 12 student Tukker Lewin said.
+
+"We've been on our own journey to try and educate ourselves, but we're on the path now where we're trying to get everyone else to open their eyes and really pay attention."
+How the app works
+The relationship between PFAS exposure and human health effects is contested among scientists and public health experts, and scientific evidence remains limited.
+
+The app, which is in the prototype phase, is designed to show a product's PFAS levels simply by scanning its barcode.
+
+It also provides a heat map identifying known PFAS hotspots across the country.
+
+"We wanted to create something that gives people consumer choice because that's something we don't currently have with PFAS," student Meg Paviour said.
+
+The app currently only works for two products, with a limited amount of PFAS data being a hurdle for students.
+
+"One of the biggest problems is that there isn't enough research into it, and so we really want to push for that,"  Meg said.
+Gathering data 'challenging'
+Last year, PFAS was discovered in a platypus from the Wingecarribee River near Berrima at the top of Sydney's drinking water catchment and around 15 kilometres from Bowral High School.
+
+The project's lead researcher, Ian Wright from Western Sydney University, described Bowral as a "PFAS hotspot".
+
+Dr Wright said just 12 months ago there was no data on PFAS levels in our waterways, and there was still little detail on PFAS in everyday products despite being used in Australia since the 1940s.
+
+Denis O'Carroll from the University of NSW has been studying PFAS levels in international waters and said accurately identifying the chemicals in consumer products was difficult.
+
+"It is challenging because it depends on where the source data comes from," Dr O'Carroll said.
+
+"If you were to buy beer or a soda drink from different places, the amount of PFAS in that drink would be a function of where the water used to make it came from, and that could change with time."
+
+Apps like the one being developed in Bowral worked better in places that had stricter PFAS labelling rules, like California or the European Union, Dr O'Carroll said.
+
+"Then we can be informed as consumers about whether or not we wanted, if we had a choice between two products, which one we think is going to be less of a concern."
+
+PFAS labelling petition
+Alongside the prototype, the students have launched a parliamentary petition requiring 20,000 signatures to mandate PFAS-level labelling on products across Australia.
+
+"If people start moving away from products with PFAS because they understand the health concerns, that then pushes companies to move away from PFAS," Year 11 student Chloe Ward said.
+
+Last month, the students were invited to speak in the NSW parliament by Member of Wollondilly,Judy Hannan and met with Cate Faehrmann, chair of the Select Committee on PFAS Contamination in NSW Waterways.
+
+The group has also met with PFAS documentary director Katrina McGowan and representatives from UNICEF and Apple to develop the prototype into a publicly available app.
