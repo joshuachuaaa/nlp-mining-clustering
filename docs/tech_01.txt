@@ -1,60 +1,72 @@
-Southern Highlands students develop technology to help detect PFAS in grocery items
+AMD’s AI Surge Challenges Nvidia’s Dominance
 
-In short: 
-Students from Bowral High School have created an app prototype that scans product barcodes to detect PFAS.
+For years, Nvidia’s H100 GPUs have been the undisputed kings of the AI jungle, the apex predators that every competitor wants to dethrone.
 
-The development has garnered attention from local MPs and Apple, but a lack of data is stopping progress. 
+But here in Silicon Valley — where I’m writing this and where a good underdog story is always appreciated, AMD is roaring onto the scene with its Instinct MI300 series and the upcoming MI350 series, demonstrating not just competitive prowess but a significant, open-source-driven lead in key AI training and inference workloads.
 
-What's next?
-The group has created a parliamentary petition to mandate PFAS labelling on Australian products.
+In a world where cutting-edge hardware is harder to get than a unicorn on a skateboard, AMD’s strategy of being not just “good enough” but demonstrably superior, particularly in performance-per-dollar, is a true game-changer.
 
-When a group of high school students learnt that elevated levels of PFAS were detected in their local river, they became worried.
+Let’s chat about AMD’s Advancing AI 2025 event this week, and we’ll close with my Product of the Week, the new Eight Sleep Pod 5, which could end the war over the thermostat between spouses forever.
 
-The five senior students from Bowral High School in the NSW Southern Highlands decided to take matters into their own hands and develop an app to detect the so-called forever chemicals in everyday products.
+Unleashing Raw Power: AMD’s MLPerf Dominance
+AMD’s recent debut in the MLPerf Training v5.0 benchmarks wasn’t just an entry; it was a thunderclap. This critical benchmark for AI training, focusing on real-world workloads such as fine-tuning a variant of the Llama 2 70B model using LoRA (Low-Rank Adaptation), revealed that AMD’s Instinct MI325X platform outperformed six OEM submissions using Nvidia’s H200 platform by up to 8%, according to MLPerf Training v5.0.
 
-PFAS (per- and polyfluoroalkyl substances) are a group of more than 4,000 chemicals which have been used in a range of household products such as non-stick cookware and food packaging.
+Let that sink in: AMD, the perennial challenger, just demonstrated a lead over Nvidia’s latest in a head-to-head, real-world AI training scenario. The AMD Instinct MI300X platforms also delivered competitive performance compared to the Nvidia H100 on the same workload, proving that both AMD GPU platforms in the Instinct MI300 Series are potent solutions for diverse training needs.
 
-In 2023, Australian researchers found 107 types of PFAS in 15 consumer product categories, with the highest levels found in textiles and cosmetics.
+That performance edge isn’t just theory; it’s independently verified proof that AMD isn’t just playing; it’s winning.
 
-Last month, the Australian Bureau of Statistics revealed 85 per cent of Australians have PFAS in their blood.
+OEM Results Confirm AMD Reproducibility
+What makes this even more compelling is the widespread validation from AMD’s partners. Six OEM ecosystem partners, including giants like Dell, Oracle, Gigabyte, and QCT, submitted their own MLPerf Training results using AMD Instinct MI300 Series GPUs.
 
-"The scariest part is not just that it's in everyone, but no-one knows about it," group participant and Year 12 student Tukker Lewin said.
+That third-party participation isn’t just AMD showing off its shiny toys; it’s an industry-wide affirmation that AMD Instinct performance can be consistently reproduced across various OEM platforms. Supermicro even broke new ground by becoming the first company to submit liquid-cooled AMD Instinct results to MLPerf, achieving a time-to-train score of 21.75 minutes with an Instinct MI325X platform, highlighting the thermal efficiency and scaling potential of advanced cooling solutions.
 
-"We've been on our own journey to try and educate ourselves, but we're on the path now where we're trying to get everyone else to open their eyes and really pay attention."
-How the app works
-The relationship between PFAS exposure and human health effects is contested among scientists and public health experts, and scientific evidence remains limited.
+MangoBoost further raised the bar with the first-ever multi-node training submission powered by AMD Instinct GPUs, showcasing significant scalability with 2-node (16-GPU MI300X) setups completing training in 16.32 minutes and 4-node (32-GPU MI300X) configurations in just 10.92 minutes. These results are a testament to the maturity, flexibility, and openness of the AMD Instinct ecosystem.
 
-The app, which is in the prototype phase, is designed to show a product's PFAS levels simply by scanning its barcode.
+Open-Source Secret Sauce: ROCm’s Rapid Evolution
+At the heart of AMD’s accelerating performance is the rapid evolution of AMD ROCm, its open-source software stack.
 
-It also provides a heat map identifying known PFAS hotspots across the country.
+ROCm isn’t just a side project; it’s receiving relentless developer-focused progress, with software updates rolling out every two weeks. ROCm 7, previewed for August 12, promises out-of-the-box compatibility, local execution on Windows and Linux, and significant performance uplifts — up to 3.5 times performance and 3 times training speed on the same hardware compared to prior ROCm versions.
 
-"We wanted to create something that gives people consumer choice because that's something we don't currently have with PFAS," student Meg Paviour said.
+This open-source advantage allows AMD to iterate and innovate at a pace that Nvidia’s proprietary CUDA ecosystem simply cannot match. While CUDA kernels often need to be rewritten for each new Nvidia GPU generation (you can’t just use an H100 kernel for Blackwell, for instance), ROCm’s open nature facilitates far quicker adaptation and broader compatibility.
 
-The app currently only works for two products, with a limited amount of PFAS data being a hurdle for students.
+This rapid pace of software advancement, coupled with deeper ecosystem collaboration, is demonstrably contributing to ROCm 7 running 30% faster than Nvidia’s CUDA in key inference benchmarks, according to AMD internal testing.
 
-"One of the biggest problems is that there isn't enough research into it, and so we really want to push for that,"  Meg said.
-Gathering data 'challenging'
-Last year, PFAS was discovered in a platypus from the Wingecarribee River near Berrima at the top of Sydney's drinking water catchment and around 15 kilometres from Bowral High School.
+Beyond raw speed, ROCm 7 introduces advanced AI capabilities, including text-to-text, text-to-image, support for European language models, agent platforms, and multimodal processing — delivering up to three times the performance of ROCm 6 in inference and training workloads.
 
-The project's lead researcher, Ian Wright from Western Sydney University, described Bowral as a "PFAS hotspot".
+ROCm 7 delivers up to 3.5x performance over ROCm 6 across popular inference workloads. (Source/Credit: AMD Advancing AI 2025)
 
-Dr Wright said just 12 months ago there was no data on PFAS levels in our waterways, and there was still little detail on PFAS in everyday products despite being used in Australia since the 1940s.
+This leap is driven in part by a re-engineered token generation pipeline that shifts from a bottlenecked, centralized inference model to a more efficient distributed approach using prefill, caching, and focused decoding.
 
-Denis O'Carroll from the University of NSW has been studying PFAS levels in international waters and said accurately identifying the chemicals in consumer products was difficult.
+MI350, MI400 Roadmap Raises the Stakes
+AMD’s annual hardware cadence is delivering continuous generational leaps.
 
-"It is challenging because it depends on where the source data comes from," Dr O'Carroll said.
+The upcoming MI350 series promises even faster inference and training, supporting larger AI models with up to 288GB of memory per GPU. According to AMD, the MI355X will deliver up to 4.2 times the performance of the previous-generation MI300X and significantly outperform Nvidia’s B200 and GB200 in specific inference workloads.
 
-"If you were to buy beer or a soda drink from different places, the amount of PFAS in that drink would be a function of where the water used to make it came from, and that could change with time."
+In crucial DeepSeek and Llama workloads, AMD projects these new products will outperform Nvidia by 20% to 30% and offer up to 40% more tokens per dollar, based on internal benchmark testing. For training, the MI350 series delivers up to 3.5 times the performance of prior hardware, and it matches or outperforms Nvidia by 30% in pre-training workloads, even against Nvidia’s latest reported numbers.
 
-Apps like the one being developed in Bowral worked better in places that had stricter PFAS labelling rules, like California or the European Union, Dr O'Carroll said.
+Looking further ahead, the MI400 “Vulkan” product family is scheduled for release in 2026, promising a holistic design for leadership performance and supporting up to 300 GB of scale-out bandwidth, delivering up to 10 times the performance of the MI355X, based on engineering projections for the upcoming MI400 series. The MI500 is slated for 2027, showing AMD’s aggressive, long-term roadmap.
 
-"Then we can be informed as consumers about whether or not we wanted, if we had a choice between two products, which one we think is going to be less of a concern."
+This relentless pace of innovation, with leadership performance designed in, is a serious threat to Nvidia’s established market dominance.
 
-PFAS labelling petition
-Alongside the prototype, the students have launched a parliamentary petition requiring 20,000 signatures to mandate PFAS-level labelling on products across Australia.
+AMD’s Full-Stack Approach
+AMD isn’t just building chips; it’s building entire AI ecosystems.
 
-"If people start moving away from products with PFAS because they understand the health concerns, that then pushes companies to move away from PFAS," Year 11 student Chloe Ward said.
+The AMD Helios AI rack reference platform, previewed for 2026, integrates 5th Gen EPYC CPUs, Instinct GPUs, Pensando DPUs, and ROCm, promising 50% more memory capacity, bandwidth, and scale-out bandwidth, which delivers significant economic benefits for customers. This double-wide rack design is predominantly liquid-cooled, a testament to AMD’s long-standing leadership in liquid cooling and its recognition of the cost-of-ownership benefits.
 
-Last month, the students were invited to speak in the NSW parliament by Member of Wollondilly,Judy Hannan and met with Cate Faehrmann, chair of the Select Committee on PFAS Contamination in NSW Waterways.
+Networking is another critical differentiator.
 
-The group has also met with PFAS documentary director Katrina McGowan and representatives from UNICEF and Apple to develop the prototype into a publicly available app.
+Recognizing that model sizes are growing by three orders of magnitude every three years (while silicon doubles every two years), distributed computing and advanced networking are crucial to closing the performance gap.
+
+AMD’s solution is the open-source Ultra-Ethernet effort and the Ultra-Accelerator Link. Its Pensando Pollara 400 AI NIC, now in full release, offers a 40% performance advantage over competing technology, up to 20 times the performance of InfiniBand in specific workloads, according to AMD.
+
+This programmable NIC enables customers to create custom networking protocols, significantly enhancing throughput by eliminating bottlenecks through advanced load balancing. The strategic partnerships around Pollara, including those with major server and networking vendors, are already yielding results, with Oracle reporting a 5 times performance increase in its AI deployments using MI355 GPUs.
+
+Juniper Networks is also collaborating with AMD on 800 GB switches, leveraging Pollara NICs to network massive numbers of both AMD and Nvidia GPUs, massively outperforming InfiniBand. This comprehensive, open approach to networking, in contrast to Nvidia’s more proprietary offerings, further enhances AMD’s value proposition for large-scale AI deployments.
+
+Wrapping Up: The Open AI Future Is AMD’s Game To Win
+AMD’s AI momentum is undeniable. Its MLPerf Training debut showcases competitive and, in several key benchmarks, superior performance compared to Nvidia’s H100 and H200.
+
+AMD’s recent performance gains are fueled by its relentless, open-source ROCm software stack, which is evolving at an unprecedented pace, and a strong, diverse ecosystem of partners. With the upcoming MI350 and MI400 series promising generational leaps in performance and scalability, coupled with a comprehensive rack-scale and networking strategy built on open standards, AMD is positioning itself as a formidable leader in the AI race.
+
+
+Nvidia’s reliance on a proprietary ecosystem is looking increasingly like a liability in a market clamoring for flexibility, cost-effectiveness, and rapid innovation. The future of AI is open and accelerated, and right now, AMD, not Nvidia, is driving that future.
